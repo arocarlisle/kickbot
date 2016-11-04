@@ -1,0 +1,2 @@
+# Scrapy
+Scrapy==0.24.2

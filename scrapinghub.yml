@@ -1,0 +1,6 @@
+apikeys:
+  default: 46bf88014d3d44fb9dea762758549c16
+endpoints:
+  default: http://app.scrapinghub.com/api/
+projects:
+  default: 16951

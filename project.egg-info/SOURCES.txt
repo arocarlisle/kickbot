@@ -1,0 +1,13 @@
+setup.py
+bin/hello2.py
+kickbot/__init__.py
+kickbot/items.py
+kickbot/pipelines.py
+kickbot/settings.py
+kickbot/spiders/__init__.py
+kickbot/spiders/projects_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
